@@ -52,7 +52,10 @@ Place your audio.mp3 file in the root folder.(add background sound you want to a
 
 ##Run the App
      streamlit run app.py
+## 🚀 Live Demo
 
+Try out the app here 👇  
+🔗 **[Reels by Image – Streamlit App](https://reels-by-image-tglg5cpcf9vx7z56xwdfax.streamlit.app/)**
      
 
 
